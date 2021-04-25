@@ -1933,9 +1933,9 @@
   overflow: hidden;
   display: none;
   filter: alpha(opacity=30);
-  -khtml-opacity: 0.5;
-  -moz-opacity: 0.5;
-  opacity: 0.5;
+  -khtml-opacity: 0.3;
+  -moz-opacity: 0.3;
+  opacity: 0.3;
   background: no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
